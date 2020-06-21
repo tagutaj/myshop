@@ -1,0 +1,4 @@
+This website is mesnt to advertise and receive orders from customers who are then contacted via email or whatsapp for follow up. For prototype purposes no explicit validation was done.
+Database is included named "advance" with username "root" and no password
+Site Admin Username is "tagutaj@gmail.com" and password is "1993".
+Any review is welcome.
